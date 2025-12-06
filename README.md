@@ -17,6 +17,8 @@ Conheça os projetos da galera, explore os repositórios e, claro, leve adiante 
 - [Ecos do Labirinto](https://github.com/ArchangelLoer/jogo-Ecos-do-Labirinto)
 - [LogiC Detetive](https://github.com/BabiCabral/LogiCDetetive)
 - [Corte da Verdade](https://github.com/LuizMXavier/corteDaVerdade)
+- [Salve-C quem puder!](https://github.com/thainapontes/Salve-C)
+
 
 > Adicione seu jogo abaixo desta linha, mantendo o mesmo formato:  
 > `- [Nome do Jogo](link-do-repositório)`
